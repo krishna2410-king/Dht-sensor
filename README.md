@@ -48,3 +48,4 @@ Inside the DHT sensor:
 - HVAC control
 - IoT-based environmental sensing
 
+
