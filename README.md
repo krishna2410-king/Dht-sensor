@@ -48,6 +48,3 @@ Inside the DHT sensor:
 - HVAC control
 - IoT-based environmental sensing
 
----
-
-Would you like help formatting this directly into your GitHub repo or adding a schematic image?
